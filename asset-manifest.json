@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactweddire/static/css/main.4e8d9cf3.css",
+    "main.js": "/reactweddire/static/js/main.ef854e86.js",
+    "index.html": "/reactweddire/index.html",
+    "main.4e8d9cf3.css.map": "/reactweddire/static/css/main.4e8d9cf3.css.map",
+    "main.ef854e86.js.map": "/reactweddire/static/js/main.ef854e86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8d9cf3.css",
+    "static/js/main.ef854e86.js"
+  ]
+}
